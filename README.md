@@ -18,3 +18,69 @@ NFDI4Ing and Text+ are two consortia of the National Research Data Infrastructur
 Background to the NFDI4Ing library: On September 29, 2023, the NFDI4Ing consortium submitted an interim report for the first funding period. The NFDI4Ing library was created in advance for the purpose of automated literature management for the interim report. The first Python script from NFDI4Ing reads a subfolder of the library for demonstration purposes and also exports tags and notes. The second Python script reads all publications of the - so far incomplete - "Library NFDI" and exports tags.
 
 Background to the Text+ library: In June 2024, the National Research Data Infrastructure conducted a comprehensive structural evaluation. As part of this evaluation, all consortia were asked to submit a list of all publications published since their foundation. The script focuses exclusively on the publications and exports tags, without reading notes or attachments.
+
+
+This repository contains code and resources for the Eigene Werke NFDI project. The following instructions will help you get started with running the code in this repository.
+
+## Table of Contents
+
+1. [Requirements](#requirements)
+2. [Installation](#installation)
+3. [Running the Code](#running-the-code)
+4. [Usage](#usage)
+
+
+## Requirements
+
+Before you begin, ensure you have met the following requirements:
+
+- You have installed Python 3.8 or later.
+- You have a Unix-based system (Linux or macOS) or Windows.
+- You have installed `pip` (Python package installer).
+
+## Installation
+
+1. **Clone the Repository**
+
+   Clone the repository to your local machine using the following command:
+
+   ```sh
+   git clone https://github.com/zeynepdirier/Eigene-Werke-NFDI.git
+   cd Eigene-Werke-NFDI
+   ```
+2. **Create a Virtual Environment**
+
+  It is recommended to create a virtual environment to manage dependencies. Run the following commands:
+
+   ```sh
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   ```
+
+## Running the code
+
+1. **Configuration** 
+
+   Ensure that any necessary configuration files or environment variables are set up as required by the project. This information can typically be found in the documentation or comments within the code.
+
+2. **Run the Main Script**
+
+   To start the main script, use the following command:
+   ```sh
+   python <filename>.py
+   ```
+   Replace <filename>.py with the name of the script you intend to run.
+
+## **Usage**
+   Provide a brief overview of how to use the code or any specific commands or options that need to be passed.
+   For example:
+
+   ```sh
+   python <filename>.py --input data/input_file.csv --output results/output_file.csv
+   ```
+   Explain any significant parameters or configuration options here.
+
+
+
+
+
