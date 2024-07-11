@@ -81,6 +81,6 @@ Before you begin, ensure you have met the following requirements:
    Explain any significant parameters or configuration options here.
 
 ## **Acknowledgements**
-This code has been inspired from [urschrei](https://github.com/urschrei): https://github.com/urschrei/pyzotero.
+This code has been inspired from [urschrei](https://github.com/urschrei) at https://github.com/urschrei/pyzotero.
 
 The authors would like to thank the Federal Government and the Heads of Government of the Länder, as well as the Joint Science Conference (GWK), for their funding and support within the framework of the NFDI4Ing consortium. Funded by the German Research Foundation (DFG) – 442146713.
