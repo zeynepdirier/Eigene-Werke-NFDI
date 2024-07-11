@@ -1,11 +1,11 @@
 # Eigene-Werke-NFDI
-## Cooperation between NFDI4Ing and Text+ 
+## Zotero4NFDI: Cooperation between NFDI4Ing and Text+ 
 ### Scripts for reading individual or all publications from a Zotero library
 
 Contact persons NFDI4Ing: Zeynep Dirier (https://orcid.org/0009-0000-4816-3771) 
 & Évariste Demandt (https://orcid.org/0000-0002-5705-0071)
 
-Contact persons Text+: Annica Skupch annica.skupch@swhk.ids-mannheim.de & Thorsten Trippel (https://orcid.org/0000-0002-7211-7393)
+Contact persons Text+: Annica Skupch (https://orcid.org/0009-0005-9075-255X) & Thorsten Trippel (https://orcid.org/0000-0002-7211-7393)
 
 Library NFDI4Ing: https://www.zotero.org/groups/5133250/bibliothek_nfdi4ing/library 
 
