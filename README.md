@@ -19,7 +19,6 @@ Background to the NFDI4Ing library: On September 29, 2023, the NFDI4Ing consorti
 
 Background to the Text+ library: In June 2024, NFDI conducted a comprehensive structural evaluation. As part of this evaluation, all consortia were asked to submit a list of all publications published since their foundation. The script focuses exclusively on the publications and exports tags, without reading notes or attachments.
 
-
 This repository contains code and resources for the Eigene-Werke-NFDI project. The following instructions will help you get started with running the code in this repository.
 
 ## Table of Contents
